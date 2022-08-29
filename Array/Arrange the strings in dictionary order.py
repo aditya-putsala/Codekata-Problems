@@ -19,4 +19,4 @@ print(" ".join(k))
 a
 b
 c
-d
+
