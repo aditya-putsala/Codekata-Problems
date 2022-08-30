@@ -18,5 +18,4 @@ k.sort()
 print(" ".join(k))
 
 a
-a
 
