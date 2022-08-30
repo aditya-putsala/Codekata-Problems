@@ -17,5 +17,4 @@ k = list(input().split())
 k.sort()
 print(" ".join(k))
 
-a
 
