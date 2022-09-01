@@ -15,3 +15,4 @@ if n == len(s):
         sum = sum&s[i]
 print(sum)
 a
+a
