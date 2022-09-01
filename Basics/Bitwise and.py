@@ -14,4 +14,3 @@ if n == len(s):
     for i in range(1,n):
         sum = sum&s[i]
 print(sum)
-a
