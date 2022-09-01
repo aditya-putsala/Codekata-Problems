@@ -17,4 +17,3 @@ print(sum)
 a
 a
 a
-a
