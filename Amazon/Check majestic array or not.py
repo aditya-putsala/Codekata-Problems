@@ -24,3 +24,4 @@ if sum1 == sum2:
     print(1)
 else:
     print(0)
+a
