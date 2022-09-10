@@ -21,4 +21,3 @@ else:
     print(count)
 a
 a
-a
