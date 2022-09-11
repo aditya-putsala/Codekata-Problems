@@ -34,6 +34,6 @@ if flag:
 else:
     print(0)
 a
-a
+
 
 
