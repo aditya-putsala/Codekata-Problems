@@ -19,3 +19,4 @@ b = int(input())
 print(f'{a*b:.1f}')
 a
 a
+a
