@@ -18,7 +18,7 @@ a = int(input())
 b = int(input())
 print(f'{a*b:.1f}')
 a
-a
+
 
 
 
