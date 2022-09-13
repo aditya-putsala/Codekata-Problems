@@ -20,7 +20,6 @@ print(f'{a*b:.1f}')
 a
 a
 a
-a
 
 
 
