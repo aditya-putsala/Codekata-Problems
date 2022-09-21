@@ -25,7 +25,7 @@ if sum1 == sum2:
 else:
     print(0)
 
-a
+
 
 
 
